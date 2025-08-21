@@ -43,9 +43,5 @@ project/
 │── requirements.txt     # Python dependencies
 │── README.md            # Project documentation
 
-Explainatory Video:https://www.loom.com/share/902014d81480474f931ede4613859a16?sid=341569d7-b8ae-4191-a05e-b644e29dd56a
+# Explainatory Video:https://www.loom.com/share/902014d81480474f931ede4613859a16?sid=341569d7-b8ae-4191-a05e-b644e29dd56a
 
-
-│── create_db.py        # Database schema setup (tables with AUTO_INCREMENT PKs)
-│── requirements.txt     # Python dependencies
-│── README.md            # Project documentation
